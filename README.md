@@ -1,7 +1,7 @@
 # statistical-machine-learning
 
 ## Lab 1: Density Estimation and Classification
-Given 2 datasets I had to extract
+This lab was about the naive bayes classifie. I was given 2 datasets I had to extract features or averages and standard deviations from those datasets.
 
 
 ## Lab 2: K-Means
